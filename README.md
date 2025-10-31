@@ -42,6 +42,5 @@ If you find this work useful, please consider citing:
 @thesis{song2025analysis,
   title  = {Analysis of Transfer Performance in Pre-trained Diffusion Models (预训练扩散模型的迁移性能分析)},
   author = {Song, Linxuan (宋林璇)},
-  school = {Dalian Maritime University (大连海事大学)},
   year   = {2025}
 }
